@@ -1,0 +1,13 @@
+button a{
+    text-decoration: none;
+    text-decoration-color: white;
+    color: white;
+}
+
+.indexH{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    padding: 25px 50px;
+    gap: 0px;
+    align-items: center;
+}

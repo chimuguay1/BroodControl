@@ -1,0 +1,17 @@
+.date_entry{
+    background-color: rgb(223, 223, 219);
+}
+
+.date_exit{
+    background-color: rgb(223, 223, 219);
+}
+
+.btnModal{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    margin-top: 10px;
+    font-weight: bold;
+    height: 35px;
+}
